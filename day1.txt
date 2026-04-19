@@ -1,0 +1,6 @@
+Day 1 - Github practice
+  Today i learned :
+-creating repository 
+-editing readme
+  -creating files
+  This is my first step in github
